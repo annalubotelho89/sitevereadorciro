@@ -18,10 +18,10 @@
 
         window.scrollTo(0, 0);
 
-        if(window.location.hash) {
+        // if(window.location.hash) {
             // window.location.href = 'file:///home/leila/%C3%81rea%20de%20trabalho/TEMPLATES/sitedociro/index.html'
-            alert(window.location);
-        }      
+            alert(window.location.url);
+        // }      
 
         
     });
