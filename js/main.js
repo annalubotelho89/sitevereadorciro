@@ -19,7 +19,8 @@
         window.scrollTo(0, 0);
 
         if(window.location.hash) {
-            window.location.href = 'file:///home/leila/%C3%81rea%20de%20trabalho/TEMPLATES/sitedociro/index.html'
+            // window.location.href = 'file:///home/leila/%C3%81rea%20de%20trabalho/TEMPLATES/sitedociro/index.html'
+            alert(window.location);
         }      
 
         
